@@ -1,5 +1,16 @@
 # 01_BN-2DAE.py
-# 08/19/2024 Kai Fukami
+# 2024 Kai Fukami (UCLA, kfukami1@g.ucla.edu)
+
+## Authors:
+# Kai Fukami and Kunihiko Taira 
+## We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
+#     Ref: K. Fukami and K. Taira,
+#     “Seeking universal coordinates for multi-source turbulent flow data,”
+#     in review, 2024
+#
+# The code is written for educational clarity and not for speed.
+# -- version 1: Aug 19, 2024
+
 
 #import os
 #os.environ["CUDA_VISIBLE_DEVICES"] = "1"
