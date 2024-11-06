@@ -1,7 +1,7 @@
 # Observable-CNN-AE
 A sample code for Fukami and Taira (2025).
 
-![fig3](https://github.com/kfukami/Observable-AE/assets/62085615/c6f5ac05-481a-40d5-9327-41f4df8b667b)
+![fig3]([https://github.com/kfukami/Observable-AE/assets/62085615/c6f5ac05-481a-40d5-9327-41f4df8b667b](https://github.com/user-attachments/assets/7bd4da7a-d3b5-4d09-9685-23ef90eb4dc9))
 
 # Reference
 Kai Fukami and Kunihiko Taira, ``Seeking universal coordinates for multi-source turbulent flow data," in prep.
