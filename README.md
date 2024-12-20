@@ -7,7 +7,7 @@ A sample code for Fukami and Taira (2025).
 Kai Fukami and Kunihiko Taira, ``Nonlinear manifold learning for multi-source turbulent flow data," in prep.
 
 # Information
-Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (UCLA)
+Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (Tohoku Univ.)
 
 This repository contains
 
