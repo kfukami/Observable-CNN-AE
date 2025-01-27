@@ -7,7 +7,7 @@ A sample code for Fukami and Taira (2025).
 Kai Fukami and Kunihiko Taira, ``Observable-augmented manifold learning for multi-source turbulent flow data," in Review.
 
 # Information
-Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku Univ.)
+Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
 
 This repository contains
 
