@@ -6,7 +6,7 @@
 ## We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
 #     Ref: K. Fukami and K. Taira,
 #     “Observable-augmented manifold learning for multi-source turbulent flow data,”
-#     in review, 2025
+#     Journal of Fluid Mechanics, 2025
 #
 # The code is written for educational clarity and not for speed.
 # -- version 1: Jan 27, 2025
